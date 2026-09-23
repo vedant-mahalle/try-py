@@ -1,1 +1,1 @@
-print("Hello v1")
+print("Hello Jenkins! Automation works!")
